@@ -1,7 +1,7 @@
 {
 	"name": "portfolio-app2",
 	"version": "0.1.0",
-	"private": false,
+	"private": true,
 	"homepage": "https://rikocodes.github.io",
 	"dependencies": {
 		"gh-pages": "^2.1.1",
