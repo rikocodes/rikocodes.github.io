@@ -2,7 +2,7 @@
 	"name": "portfolio-app2",
 	"version": "0.1.0",
 	"private": false,
-	"homepage": "https://rikocodes.github.io/me",
+	"homepage": "https://rikocodes.github.io",
 	"dependencies": {
 		"gh-pages": "^2.1.1",
 		"react": "^16.9.0",
